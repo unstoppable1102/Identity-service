@@ -1,0 +1,5 @@
+
+jwt:
+  singerKey: "NRHomNvOKLwIAGvzJuL8L8hf8nBXxVjj+YnkfAEt8fBG8ocDaHDeC7DoarjLkakN"
+  valid-duration: 7200 #in seconds
+  refreshable-duration: 720000 # in seconds
